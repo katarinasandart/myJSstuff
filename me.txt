@@ -1,0 +1,5 @@
+Jag har läst en kort kurs i HTML och CSS på universitetet, men det var ca fem år sedan så jag skulle säga att jag för dem båda ligger 
+på 7-8.
+JavaScript kan jag väldigt lite om, kanske en 4.
+
+Jag ser fram emot att lära mig JS, det ska bli kul att kunna kombinera frontend och backend.
